@@ -44,7 +44,21 @@
 </div>
 
 ***
+- ✔ e-mail             📎 ssy9989@naver.com   
+- ✔ google-drive       📎 https://drive.google.com/drive/folders/1Csje5mSSQlnZw08SFYVpVzmPFdVR6D9m   
+- ✔ KoreaITAcademy     📎 https://itgn.cafe24.com/   
+- ✔ KoreaITevaluation  📎 http://st.koreaedugroup.com/2019/login.asp   
+- ✔ HRD                📎 https://www.hrd.go.kr/hrdp/ma/pmmao/indexNew.do   
+- ✔ work net           📎 https://www.work.go.kr/seekWantedMain.do   
+- ✔ Java API 11ver     📎 https://docs.oracle.com/en/java/javase/11/docs/api/index.html   
+- ✔ Korea ITlms        📎 https://koreaitgn.lms.elice.io/   
+- ✔ Git Hub            📎 https://github.com/juhyeon809    
+- ✔ Homepage           📎 ssy9989.dothome.co.kr   
+
+
+***
 
 ### 국비 수업 기록
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=with.%20JUHYEON&fontSize=16&fontAlign=92&fontAlignY=88)
+
