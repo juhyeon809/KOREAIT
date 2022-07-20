@@ -1,0 +1,12 @@
+package com.koreait.day04.ifs;
+
+import com.koreait.day04.model.network.Header;
+
+public interface CrudInterface<Req, Res> {
+    Header<Res> create(Header<Req> request);
+    Header<Res> read(Long id);
+    Header<Res> update(Header<Req> request);
+    Header<Res> delete(Long id);
+
+
+}
